@@ -20,7 +20,7 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectName>LibRaw</ProjectName>
-    <ProjectGuid>{07F662C1-1323-42AB-B6AF-FBFD34A7437A}</ProjectGuid>
+    <ProjectGuid>{61F762E1-BFE9-45EA-AEF8-0E889E3CED51}</ProjectGuid>
     <RootNamespace>LibRawLite</RootNamespace>
     <Keyword>Win32Proj</Keyword>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>

@@ -7,11 +7,11 @@
 #include <algorithm>
 #include <time.h>
 #include <cmath>
-#include "../inc/FreeImage.h"
+#include "../FreeImage/Source/FreeImage.h"
 
 using namespace std;
 
-#pragma comment(lib,"../lib/FreeImage.lib")
+//#pragma comment(lib,"../lib/FreeImage.lib")
 
 class Tex_info
 {

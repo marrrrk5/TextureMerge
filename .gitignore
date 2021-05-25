@@ -3,3 +3,5 @@ Debug
 Release
 Dist
 *.vcxproj.user
+/TextureMerge/Debug
+/Debug
